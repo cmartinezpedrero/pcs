@@ -19,7 +19,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `$ git clone https://descinet.bbva.es/stash/.......git`
+* `$ git clone https://github.com/cmartinezpedrero/pcs.git`
 * `$ cd pcs`
 * `$ mvn clean install`
 * `$ mvn spring-boot:run`
